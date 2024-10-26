@@ -12,7 +12,7 @@ My name is Đoàn Thắng. I am a B.Sc. in Information Technology, specializing 
 
 ![Thang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thang2882002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/WebBanHang/">
+<a href="https://github.com/Thang2882002/WebBanHang/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thang2882002&repo=WebBanHang&theme=radical" />
 </a>    
