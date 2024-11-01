@@ -18,7 +18,7 @@ My name is Đoàn Thắng. I am a B.Sc. in Information Technology, specializing 
 </a>    
 <a href="https://github.com/Thang2882002/App-2DTo3D-BackEnd">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thang2882002&repo=App-2DTo3D-BackEndr&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thang2882002&repo=App-2DTo3D-BackEnd&theme=merko" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
