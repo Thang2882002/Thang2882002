@@ -3,6 +3,7 @@ My name is Đoàn Thắng. I am a B.Sc. in Information Technology, specializing 
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [doanminhthang2808@gmail.com](mailto:doanminhthang2808@gmail.com)
+* 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/thang2882002/)
 
 
 ## 📫 How to reach me: 
